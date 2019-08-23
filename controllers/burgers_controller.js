@@ -22,7 +22,7 @@ router.post("/", function(req, res) {
 });
 
 
-router.put("/:id", function(req, res) {
+router.post("/:id", function(req, res) {
 	console.log(req.params.id);
 
 	burger.updateOne(req.params.id, function() {

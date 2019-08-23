@@ -1,7 +1,7 @@
 li {
     padding: 15px;
     margin: 15px;
-    background: #ffffff;
+    background: #f8f7f7;
     list-style: none;
   }
   
@@ -27,18 +27,18 @@ li {
   
   h1 {
       text-align: center;
-      text-shadow: 2px 2px #ffffff;
+      text-shadow: 2px 2px #f80505;
   }
   
   h2 {
       text-align: center;
-      text-shadow: 2px 2px #ffffff;
+      text-shadow: 2px 2px #ff0b0b;
   }
   
   .create-update-form {
     padding: 25px;
     margin: 25px;
-    background: #eceff1;
+    background: white;
     border: 1px black solid;
   }
   
