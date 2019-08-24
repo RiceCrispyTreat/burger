@@ -1,4 +1,4 @@
-#EAT-DA-BURGER APP
+#**EAT-DA-BURGER APP**
 
 **Requirements**
 
@@ -17,3 +17,5 @@
 3. Express
 4. Handlebars
 5. MVC
+
+Check it out on Heroku------
